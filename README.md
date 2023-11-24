@@ -1,6 +1,6 @@
 # Azure Python SDK
 
-Environment for working with Azure VCFs
+Environment for working with Azure Python SDK
 
 ## Getting started
 
